@@ -1,7 +1,7 @@
 # desafio-felipao-dio-classesEmUmJogo
 
 Atendendo ao último desafio do Potência Tech iFood - Programação do Zero
-Fiz utilizei da classe para criar os heróis e guardar as informações de Xp e Nível dos heróis.
+Utilizei da classe para criar os heróis e guardar as informações de Xp e Nível dos heróis.
 
 A classe contém comandos para alterar o Xp e Nível com "set".
 
